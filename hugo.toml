@@ -1,0 +1,4 @@
+baseURL = 'https://meteorsakura.netlify.app/'
+languageCode = 'zh'
+title = '暮晞忆安的博客'
+theme = 'hugo-theme-stack'
