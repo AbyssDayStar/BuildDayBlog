@@ -1,5 +1,6 @@
 ---
-title: "Search"
+
+title: "搜索"
 slug: "search"
 layout: "search"
 outputs:
@@ -10,4 +11,5 @@ menu:
         weight: 3
         params: 
             icon: search
+
 ---
